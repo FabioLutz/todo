@@ -1,3 +1,3 @@
-# todo
+# todo-list
 
-https://fabiolutz.github.io/todo/
+https://fabiolutz.github.io/todo-list/
